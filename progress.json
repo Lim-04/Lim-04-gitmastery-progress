@@ -420,5 +420,14 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787749657.065617,
+    "completed_at": 1787749660.70612,
+    "comments": [
+      "Local branch STU still exists."
+    ],
+    "status": "Incomplete"
   }
 ]
